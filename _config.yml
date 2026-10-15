@@ -23,7 +23,7 @@ repository               : "zhuweiqin/zhuweiqin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Zhuwei Qin (秦柱伟)"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor, Computer Engineering"
