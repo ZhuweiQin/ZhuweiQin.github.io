@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhuwei Qin (秦柱伟)"
+title: "Zhuwei Qin"
 author_profile: true
 redirect_from:
   - /about/
@@ -65,7 +65,12 @@ Awards and Honors
 <script>
 (function () {
   var btns = document.querySelectorAll('.bio-btn');
+  var NAMES = { en: 'Zhuwei Qin', zh: '秦柱伟' };
+  function setName(lang) {
+    document.querySelectorAll('.page__title, .author__name').forEach(function (el) { el.textContent = NAMES[lang]; });
+  }
   function show(lang) {
+    setName(lang);
     document.getElementById('bio-en').style.display = lang === 'en' ? '' : 'none';
     document.getElementById('bio-zh').style.display = lang === 'zh' ? '' : 'none';
     btns.forEach(function (b) { b.classList.toggle('active', b.dataset.lang === lang); });
