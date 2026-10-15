@@ -30,7 +30,7 @@ author:
   location         : "San Francisco, CA"
   employer         : "San Francisco State University"
   uri              : "http://sfsu-miclab.org/"
-  email            : "zwqin@sfsu.edu" 
+  email            : "zwqin#sfsu.edu"  # shown as-is (# instead of @) to deter spam bots
 
   # Academic websites
   academia         : # URL

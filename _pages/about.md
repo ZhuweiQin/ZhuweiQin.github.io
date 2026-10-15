@@ -45,7 +45,7 @@ My research makes AI **efficient, adaptive, and deployable** on resource-constra
 
 Join Us
 ======
-I am looking for **motivated students** interested in **efficient AI, on-device learning, and intelligent sensing / human-machine interfaces**. Experience with PyTorch, embedded systems, or signal processing is a plus. Please email me at [zwqin@sfsu.edu](mailto:zwqin@sfsu.edu) with your CV.
+I am looking for **motivated students** interested in **efficient AI, on-device learning, and intelligent sensing / human-machine interfaces**. Experience with PyTorch, embedded systems, or signal processing is a plus. Please email me at **zwqin#sfsu.edu** (replace # with @) with your CV.
 
 Selected Recent Publications
 ======
