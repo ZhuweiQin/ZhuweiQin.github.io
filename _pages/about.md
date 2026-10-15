@@ -15,9 +15,9 @@ redirect_from:
 
 <div class="bio-content" id="bio-en" markdown="1">
 
-*Associate Professor, Computer Engineering, San Francisco State University*
+*Associate Professor, Computer Engineering, College of Science & Engineering, San Francisco State University*
 
-I am an **Associate Professor** of Computer Engineering in the School of Engineering, College of Science & Engineering at **San Francisco State University (SFSU)**, where I direct the [Mobile and Intelligent Computing (MIC) Laboratory](http://sfsu-miclab.org/). I am also an Adjunct Faculty member in Electrical and Computer Engineering at George Mason University, teaching graduate courses on mobile systems and distributed & federated learning. I received my Ph.D. in Electrical and Computer Engineering from George Mason University in 2020.
+I am an **Associate Professor** of Computer Engineering in the College of Science & Engineering at **San Francisco State University (SFSU)**, where I direct the [Mobile and Intelligent Computing (MIC) Laboratory](http://sfsu-miclab.org/). I am also an Adjunct Faculty member in Electrical and Computer Engineering at George Mason University, teaching graduate courses on mobile systems and distributed & federated learning. I received my Ph.D. in Electrical and Computer Engineering from George Mason University in 2020.
 
 My research makes AI **efficient, adaptive, and deployable** on resource-constrained devices, and applies it to human-machine interfaces and engineering education. I have published 38 papers in venues such as IEEE TCAD, KDD, IJCAI, ICCAD, DATE and BMVC (900+ citations), and have been funded by the NSF, the Department of Defense, Sony, and SFSU (13 projects, about $2.0M).
 

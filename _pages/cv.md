@@ -17,8 +17,8 @@ redirect_from:
 
 ## Appointments
 
-- **Associate Professor**, Computer Engineering, School of Engineering, San Francisco State University, 2026 – present
-- **Assistant Professor**, Computer Engineering, School of Engineering, San Francisco State University, 2020 – 2026
+- **Associate Professor**, Computer Engineering, College of Science & Engineering, San Francisco State University, 2026 – present
+- **Assistant Professor**, Computer Engineering, College of Science & Engineering, San Francisco State University, 2020 – 2026
 - **Adjunct Faculty**, Electrical and Computer Engineering, George Mason University
 
 ## Research at a Glance
