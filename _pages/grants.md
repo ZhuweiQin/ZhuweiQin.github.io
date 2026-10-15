@@ -9,7 +9,7 @@ author_profile: true
 
 ## As Principal Investigator
 
-- **California Education Learning Lab** — *SCAPE: Student-centered Collaborative AI Platform for Personalized Engineering Learning Experience*, 2025–2026, $150,000.
+- **California Education Learning Lab** — *SCAPE: Student-centered Collaborative AI Platform for Personalized Engineering Learning Experience*, 2025–2027, $150,000.
 - **Sony Sensing Solution University Program** — *Efficient and Robust Deep Learning Models for Neural-Machine Interfaces with Spresense Microcontroller*, 2024–2025, $14,118 + $6,696 hardware donation.
 - **Sony Sensing Solution University Program** — *Neural2: Efficient Deep Neural Network for Neural-controlled Bionic Arm with Spresense Microcontroller*, 2023–2024, $26,600.
 - **SFSU RSCA Fund** — *Intelligent Wireless Spectrum Monitoring with Decentralized On-device Learning*, 2024–2025, $18,500.
