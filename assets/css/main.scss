@@ -36,5 +36,13 @@
     "layout/archive",
     "layout/sidebar"
 ;
-/* compact publication list */
-.pub-list li { margin-bottom: 0.6em; font-size: 0.9em; line-height: 1.45; }
+/* publication lists */
+.pub-list { list-style: none; margin-left: 0; padding-left: 0; }
+.pub-list li { margin-bottom: 0.7em; font-size: 0.9em; line-height: 1.5; }
+.pub-tag { color: #1a4f8b; margin-right: 0.25em; white-space: nowrap; }
+
+/* EN / 中文 bio switch */
+.bio-switch { margin: 0 0 1em 0; }
+.bio-btn { border: 1px solid #1a4f8b; background: #fff; color: #1a4f8b; padding: 0.2em 0.9em;
+  font-size: 0.85em; cursor: pointer; border-radius: 3px; margin-right: 0.3em; }
+.bio-btn.active { background: #1a4f8b; color: #fff; }

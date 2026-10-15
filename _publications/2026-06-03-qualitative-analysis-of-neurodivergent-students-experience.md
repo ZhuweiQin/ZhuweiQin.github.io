@@ -6,4 +6,6 @@ permalink: /publication/2026-06-03-qualitative-analysis-of-neurodivergent-studen
 date: 2026-06-03
 venue: 'ASEE Annual Conference & Exposition'
 citation: 'Yiyi Wang, Mary Requa, <b>Zhuwei Qin</b>, Adrian Arnaud. "Qualitative Analysis of Neurodivergent Students&#x27; Experience in Engineering." <i>ASEE Annual Conference &amp; Exposition</i>, 2026.'
+tag: '[ASEE ’26]'
+selected: false
 ---

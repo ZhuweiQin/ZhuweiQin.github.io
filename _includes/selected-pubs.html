@@ -1,0 +1,6 @@
+{% assign pubs = site.publications | where: "selected", true | sort: "date" | reverse %}
+<ul class="pub-list">
+{% for post in pubs %}
+  <li><strong class="pub-tag">{{ post.tag }}</strong> {{ post.citation }}</li>
+{% endfor %}
+</ul>

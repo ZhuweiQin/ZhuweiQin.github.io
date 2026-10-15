@@ -14,10 +14,10 @@ author_profile: true
   {% assign pubs = site.publications | where: "category", category[0] | sort: "date" | reverse %}
   {% if pubs.size > 0 %}
   <h2>{{ category[1].title }}</h2>
-  <ol class="pub-list">
+  <ul class="pub-list">
     {% for post in pubs %}
-    <li>{{ post.citation }}</li>
+    <li><strong class="pub-tag">{{ post.tag }}</strong> {{ post.citation }}</li>
     {% endfor %}
-  </ol>
+  </ul>
   {% endif %}
 {% endfor %}
