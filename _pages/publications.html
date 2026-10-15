@@ -7,8 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<p>38 peer-reviewed publications &middot; 900+ citations &middot; h-index 12.
-{% if site.author.googlescholar %} Full list on <a href="{{ site.author.googlescholar }}">Google Scholar</a>.{% endif %}</p>
+<p>See also Prof. Qin's <a href="{{ site.author.googlescholar }}">Google Scholar profile</a>.</p>
 
 {% for category in site.publication_category %}
   {% assign pubs = site.publications | where: "category", category[0] | sort: "date" | reverse %}
