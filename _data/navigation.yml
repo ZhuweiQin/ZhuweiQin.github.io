@@ -1,0 +1,18 @@
+main:
+  - title: "Research"
+    url: /research/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Grants"
+    url: /grants/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "中文简介"
+    url: /zh/

@@ -1,0 +1,23 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% include base_path %}
+
+<p>38 peer-reviewed publications &middot; 900+ citations &middot; h-index 12.
+{% if site.author.googlescholar %} Full list on <a href="{{ site.author.googlescholar }}">Google Scholar</a>.{% endif %}</p>
+
+{% for category in site.publication_category %}
+  {% assign pubs = site.publications | where: "category", category[0] | sort: "date" | reverse %}
+  {% if pubs.size > 0 %}
+  <h2>{{ category[1].title }}</h2>
+  <ol class="pub-list">
+    {% for post in pubs %}
+    <li>{{ post.citation }}</li>
+    {% endfor %}
+  </ol>
+  {% endif %}
+{% endfor %}
