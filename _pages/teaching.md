@@ -17,12 +17,6 @@ author_profile: true
 | ENGR 212 Introduction to Unix and Linux for Engineers | Sp'24, Sp'26 |
 | ENGR 213/214 Introduction to C Programming for Engineers / Lab | Fa'20 – Sp'25 |
 
-## George Mason University (Adjunct Faculty)
-
-- ECE 516 Mobile Systems & Applications
-- ECE 616 Advanced Mobile Systems and Applications
-- ECE 617 Distributed and Federated Learning
-
 ## Student Awards (as faculty advisor)
 
 - First Place, KumoRFM Hackathon Challenge, 2025

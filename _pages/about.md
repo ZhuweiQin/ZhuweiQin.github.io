@@ -17,7 +17,7 @@ redirect_from:
 
 *Associate Professor, Computer Engineering, College of Science & Engineering, San Francisco State University*
 
-I am an **Associate Professor** of Computer Engineering in the College of Science & Engineering at **San Francisco State University (SFSU)**, where I direct the [Mobile and Intelligent Computing (MIC) Laboratory](http://sfsu-miclab.org/). I am also an Adjunct Faculty member in Electrical and Computer Engineering at George Mason University, teaching graduate courses on mobile systems and distributed & federated learning. I received my Ph.D. in Electrical and Computer Engineering from George Mason University in 2020.
+I am an **Associate Professor** of Computer Engineering in the College of Science & Engineering at **San Francisco State University (SFSU)**, where I direct the [Mobile and Intelligent Computing (MIC) Laboratory](http://sfsu-miclab.org/). I received my Ph.D. in Electrical and Computer Engineering from George Mason University in 2020.
 
 My research makes AI **efficient, adaptive, and deployable** on resource-constrained devices, and applies it to human-machine interfaces and engineering education. I have published 38 papers in venues such as IEEE TCAD, KDD, IJCAI, ICCAD, DATE and BMVC (900+ citations), and have been funded by the NSF, the Department of Defense, Sony, and SFSU (13 projects, about $2.0M).
 
@@ -32,7 +32,7 @@ My research makes AI **efficient, adaptive, and deployable** on resource-constra
 
 *美国旧金山州立大学 理工学院 计算机工程系 副教授*
 
-秦柱伟，美国旧金山州立大学理工学院计算机工程系副教授，移动与智能计算实验室（MIC Lab）负责人，兼任美国乔治梅森大学电子与计算机工程系兼职教员，讲授移动系统、分布式与联邦学习等研究生课程。2020 年获乔治梅森大学电子与计算机工程博士学位。
+秦柱伟，美国旧金山州立大学理工学院计算机工程系副教授，移动与智能计算实验室（MIC Lab）负责人。2020 年获乔治梅森大学电子与计算机工程博士学位。
 
 主要研究高效、自适应、可部署于资源受限设备的人工智能技术，及其在人机接口和工程教育中的应用。已发表学术论文 38 篇，成果发表于 IEEE TCAD、KDD、IJCAI、ICCAD、DATE、BMVC 等期刊和会议，Google Scholar 引用 900 余次；主持或作为 Co-PI 承担美国国家科学基金会（NSF）、美国国防部、索尼公司等资助项目 13 项，总经费约 200 万美元，其中牵头负责两项在研 NSF 人工智能项目的 AI 部分。
 
