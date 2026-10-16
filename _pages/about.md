@@ -17,11 +17,9 @@ redirect_from:
 
 *Associate Professor, Computer Engineering, College of Science & Engineering, San Francisco State University*
 
-I am an **Associate Professor** of Computer Engineering in the College of Science & Engineering at **San Francisco State University (SFSU)**, where I direct the [Mobile and Intelligent Computing (MIC) Laboratory](http://sfsu-miclab.org/). I received my Ph.D. in Electrical and Computer Engineering from George Mason University in 2020 under the guidance of [Dr. Xiang Chen](https://if-lab-pku.github.io/).
+I received my Ph.D. in Electrical and Computer Engineering from George Mason University in August 2020 under the guidance of [Dr. Xiang Chen](https://if-lab-pku.github.io/). Right after my Ph.D., I joined the Computer Engineering faculty at **San Francisco State University (SFSU)**, where I have since earned tenure. My research makes AI **efficient, adaptive, deployable and trustworthy** on resource-constrained mobile devices, and applies it to human-machine interfaces and engineering education. I have been PI or Co-PI on 13 projects funded by the NSF, the Department of Defense, Sony and others, totaling about $2.0M, including leading the AI components of two ongoing NSF AI projects. I have published 38 papers in venues such as IEEE TCAD, KDD, IJCAI, ICCAD, DATE and BMVC, with 900+ Google Scholar citations.
 
-My research makes AI **efficient, adaptive, deployable and trustworthy** on resource-constrained devices, and applies it to human-machine interfaces and engineering education. I have published 38 papers in venues such as IEEE TCAD, KDD, IJCAI, ICCAD, DATE and BMVC (900+ citations), and have been funded by the NSF, the Department of Defense, Sony, and SFSU (13 projects, about $2.0M).
-
-**Research interests:**
+**My current research directions:**
 - **Efficient AI Computing** — edge & mobile model acceleration, LLM compression and domain adaptation, federated & decentralized learning
 - **Intelligent Sensing & Neural-Machine Interfaces** — high-density EMG gesture recognition, on-device learning for rehabilitation, wearable biomedical sensing
 - **AI for Education** — human-centered and trustworthy AI, intelligent tutoring, support for neurodiverse students
