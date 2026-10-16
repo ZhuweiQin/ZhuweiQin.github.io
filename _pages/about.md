@@ -17,9 +17,9 @@ redirect_from:
 
 *Associate Professor, Computer Engineering, College of Science & Engineering, San Francisco State University*
 
-I received my Ph.D. in Electrical and Computer Engineering from George Mason University in August 2020 under the guidance of [Dr. Xiang Chen](https://if-lab-pku.github.io/). Right after my Ph.D., I joined the Computer Engineering faculty at **San Francisco State University (SFSU)**, where I have since earned tenure. My research makes AI **efficient, adaptive, deployable and trustworthy** on resource-constrained mobile devices, and applies it to human-machine interfaces and engineering education. I have been PI or Co-PI on 13 projects funded by the NSF, the Department of Defense, Sony and others, totaling about $2.0M, including leading the AI components of two ongoing NSF AI projects. I have published 38 papers in venues such as IEEE TCAD, KDD, IJCAI, ICCAD, DATE and BMVC, with 900+ Google Scholar citations.
+Zhuwei Qin received his Ph.D. in Electrical and Computer Engineering from George Mason University in August 2020 under the guidance of [Dr. Xiang Chen](https://if-lab-pku.github.io/). Right after his Ph.D., he joined the Computer Engineering faculty at **San Francisco State University (SFSU)**, where he has since earned tenure. His research makes AI **efficient, adaptive, deployable and trustworthy** on resource-constrained mobile devices, and applies it to human-machine interfaces and engineering education. He has been PI or Co-PI on 13 projects funded by the NSF, the Department of Defense, Sony and others, totaling about $2.0M, including leading the AI components of two ongoing NSF AI projects. He has published 38 papers in venues such as IEEE TCAD, KDD, IJCAI, ICCAD, DATE and BMVC, with 900+ Google Scholar citations.
 
-**My current research directions:**
+**Currently, Prof. Qin's main research directions:**
 - **Efficient AI Computing** — edge & mobile model acceleration, LLM compression and domain adaptation, federated & decentralized learning
 - **Intelligent Sensing & Neural-Machine Interfaces** — high-density EMG gesture recognition, on-device learning for rehabilitation, wearable biomedical sensing
 - **AI for Education** — human-centered and trustworthy AI, intelligent tutoring, support for neurodiverse students
