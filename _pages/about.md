@@ -32,7 +32,7 @@ My research makes AI **efficient, adaptive, deployable and trustworthy** on reso
 
 *美国旧金山州立大学 理工学院 计算机工程系 副教授*
 
-秦柱伟，美国旧金山州立大学理工学院计算机工程系副教授，移动与智能计算实验室（MIC Lab）负责人。2020 年获乔治梅森大学电子与计算机工程博士学位，师从[陈翔教授](https://if-lab-pku.github.io/)。
+秦柱伟，师从[陈翔教授](https://if-lab-pku.github.io/)，2020 年 8 月获乔治梅森大学电子与计算机工程博士学位。博士毕业后，即在美国旧金山州立大学的计算机工程系任教并获得终身教职。
 
 致力于让人工智能在资源受限设备上更加高效、自适应、可部署、可信，并将其应用于人机接口和工程教育。已发表学术论文 38 篇，成果发表于 IEEE TCAD、KDD、IJCAI、ICCAD、DATE、BMVC 等期刊和会议，Google Scholar 引用 900 余次；主持或作为 Co-PI 承担美国国家科学基金会（NSF）、美国国防部、索尼公司等资助项目 13 项，总经费约 200 万美元，其中牵头负责两项在研 NSF 人工智能项目的 AI 部分。
 
