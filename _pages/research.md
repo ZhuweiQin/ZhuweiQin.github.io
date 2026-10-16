@@ -14,7 +14,7 @@ author_profile: true
 
 ## Research Directions
 
-My research centers on intelligent computing, aiming to make deep learning models **deployable, adaptive, and trustworthy** on resource-constrained devices. It spans three mutually reinforcing directions:
+My research makes AI **efficient, adaptive, deployable and trustworthy** on resource-constrained devices. It spans three mutually reinforcing directions:
 
 1. **Efficient AI Computing** — edge and mobile model acceleration, compression and domain adaptation of large language models, and federated and decentralized collaborative learning;
 2. **Intelligent Sensing & Neural-Machine Interfaces** — real-time gesture recognition from high-density EMG, on-device learning and adaptation, and neural-controlled rehabilitation and prosthetic systems;
