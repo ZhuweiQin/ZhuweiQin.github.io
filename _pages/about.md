@@ -34,7 +34,7 @@ My research makes AI **efficient, adaptive, deployable and trustworthy** on reso
 
 秦柱伟，美国旧金山州立大学理工学院计算机工程系副教授，移动与智能计算实验室（MIC Lab）负责人。2020 年获乔治梅森大学电子与计算机工程博士学位。
 
-致力于让人工智能在资源受限设备上更加高效、自适应、可部署、可信，及其在人机接口和工程教育中的应用。已发表学术论文 38 篇，成果发表于 IEEE TCAD、KDD、IJCAI、ICCAD、DATE、BMVC 等期刊和会议，Google Scholar 引用 900 余次；主持或作为 Co-PI 承担美国国家科学基金会（NSF）、美国国防部、索尼公司等资助项目 13 项，总经费约 200 万美元，其中牵头负责两项在研 NSF 人工智能项目的 AI 部分。
+致力于让人工智能在资源受限设备上更加高效、自适应、可部署、可信，并将其应用于人机接口和工程教育。已发表学术论文 38 篇，成果发表于 IEEE TCAD、KDD、IJCAI、ICCAD、DATE、BMVC 等期刊和会议，Google Scholar 引用 900 余次；主持或作为 Co-PI 承担美国国家科学基金会（NSF）、美国国防部、索尼公司等资助项目 13 项，总经费约 200 万美元，其中牵头负责两项在研 NSF 人工智能项目的 AI 部分。
 
 **研究方向：**
 - **高效人工智能计算（Efficient AI Computing）**：边缘与移动端模型加速、大语言模型压缩与领域适配、联邦学习与去中心化学习
