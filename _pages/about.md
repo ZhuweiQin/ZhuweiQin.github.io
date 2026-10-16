@@ -34,7 +34,7 @@ My research makes AI **efficient, adaptive, deployable and trustworthy** on reso
 
 秦柱伟，师从[陈翔教授](https://if-lab-pku.github.io/)，2020 年 8 月获乔治梅森大学电子与计算机工程博士学位。博士毕业后，即在美国旧金山州立大学的计算机工程系任教并获得终身教职。他的研究工作主要致力于让人工智能在资源受限的移动设备上更加高效、自适应、可部署、可信，并将其应用于人机接口和工程教育。主持或作为 Co-PI 承担美国国家科学基金会（NSF）、美国国防部、索尼公司等资助项目 13 项，总经费约 200 万美元，其中牵头负责两项在研 NSF 人工智能项目的 AI 部分。已发表学术论文 38 篇，成果发表于 IEEE TCAD、KDD、IJCAI、ICCAD、DATE、BMVC 等期刊和会议，Google Scholar 引用 900 余次。
 
-**研究方向：**
+**目前，秦柱伟教授的主要研究方向：**
 - **高效人工智能计算（Efficient AI Computing）**：边缘与移动端模型加速、大语言模型压缩与领域适配、联邦学习与去中心化学习
 - **智能感知与人机接口（Intelligent Sensing & Neural-Machine Interfaces）**：高密度肌电实时手势识别、神经-机器接口与康复系统、可穿戴生物医学感知
 - **人工智能赋能工程教育（AI for Education）**：以人为中心的可信 AI、智能辅导系统、神经多样性学生支持
