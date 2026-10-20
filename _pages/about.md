@@ -22,7 +22,7 @@ Zhuwei Qin received his Ph.D. in Electrical and Computer Engineering from George
 **Currently, Prof. Qin's main research directions:**
 - **Efficient AI Computing** — edge & mobile model acceleration, LLM compression and domain adaptation, federated & decentralized learning
 - **Intelligent Sensing & Neural-Machine Interfaces** — high-density EMG gesture recognition, on-device learning for rehabilitation, wearable biomedical sensing
-- **AI for Education** — human-centered and trustworthy AI, intelligent tutoring, support for neurodiverse students
+- **AI for Education** — human-centered and trustworthy AI systems, intelligent tutoring platforms for engineering education, teaching support platforms for neurodiverse students
 
 </div>
 
@@ -35,7 +35,7 @@ Zhuwei Qin received his Ph.D. in Electrical and Computer Engineering from George
 **目前，秦柱伟教授的主要研究方向：**
 - **高效人工智能计算（Efficient AI Computing）**：边缘与移动端模型加速、大语言模型压缩与领域适配、联邦学习与去中心化学习
 - **智能感知与人机接口（Intelligent Sensing & Neural-Machine Interfaces）**：高密度肌电实时手势识别、神经-机器接口与康复系统、可穿戴生物医学感知
-- **人工智能赋能工程教育（AI for Education）**：以人为中心的可信 AI、智能辅导系统、神经多样性学生支持
+- **人工智能赋能工程教育（AI for Education）**：以人为中心的可信 AI 系统、工程专业智能辅导学习平台、神经多样性学生教学支持平台
 
 </div>
 
